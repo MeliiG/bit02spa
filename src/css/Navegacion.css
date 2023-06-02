@@ -1,0 +1,14 @@
+
+.logo{
+
+    border-radius: 20%;
+}
+
+.boton{
+    
+    height: 7rem;
+    align-self: center;
+    padding: 2%;
+    border-radius: 1rem;
+    background-color: rgb(175, 132, 158);
+}

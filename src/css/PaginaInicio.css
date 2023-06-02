@@ -1,0 +1,35 @@
+
+.banner1{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+  }
+  .banner2{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+  }
+
+.p1{
+    font-size: 4rem;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+}
+
+p{
+  font-size: 2.5rem;
+ display: flex;
+ flex-direction: column;
+ margin-top: 2rem;
+ align-items: center;
+ justify-content: center;
+ text-align: justify;
+
+}
+
+@media (max-width:746px){
+
+  .p1{
+    font-size: 2rem;}
+}
