@@ -11,7 +11,7 @@ import banner2  from "../css/img/banner2.png"; */
 
 export const PaginaInicio = () => {
   return (
-  <div>
+  <div className="contenedor">
     <br/>
 
    {/*  <div className="banner1">

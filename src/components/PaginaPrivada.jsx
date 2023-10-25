@@ -25,6 +25,8 @@ export const PaginaPrivada = () => {
       <div className='saludo'>Hola, {nombre}!</div>
       <hr />
       <Tarjetas catalogo={catalogo} />
+      <br />
+      <br />
     </>
   );
 };

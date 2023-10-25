@@ -11,4 +11,16 @@
     padding: 2%;
     border-radius: 1rem;
     background-color: rgb(175, 132, 158);
+    
+}
+
+.letra{
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 25px;
+    transition: box-shadow 0.3s ease;
+}
+
+.letra:hover {
+    box-shadow: 4px 4px 13px 2px rgba(175, 132, 158, 1.9); /* valores: offsetX, offsetY, blurRadius, spreadRadius, color */
+    padding: 2%;
 }
